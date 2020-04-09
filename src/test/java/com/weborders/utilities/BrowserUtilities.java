@@ -110,4 +110,7 @@ public class BrowserUtilities {
         }
         return path;
     }
+    public static void HelloVasyl(){
+        System.out.println("Hello Vasyl, just practicing git");
+    }
 }
